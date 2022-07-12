@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>si entrooooo </h1>
+
+    <form action="home_consulta/consulta.php" method_exists="POST">
+    <left><p>INGRESE RUT A CONSULTAR</p></left>
+		   <left><input type="text" placeholder="ingrese un rut" name="rut"></left>
+           <left><input  type="submit"  value="consultar"></left> 
+   
+    </form>
+       
 </body>
 </html>
