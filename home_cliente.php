@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <form action="home_consulta/consulta.php" method_exists="POST">
+    <form action="home_consulta/consulta.php" method_exists="post">
     <left><p>INGRESE RUT A CONSULTAR</p></left>
 		   <left><input type="text" placeholder="ingrese un rut" name="rut"></left>
            <left><input  type="submit"  value="consultar"></left> 

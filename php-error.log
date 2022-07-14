@@ -1,0 +1,19 @@
+[14-Jul-2022 03:09:31 Europe/Berlin] 2222222-2
+[14-Jul-2022 03:16:09 Europe/Berlin] estoy aqui
+[14-Jul-2022 03:23:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''hola'´' at line 1 in C:\xampp\htdocs\jota\validar.php:19
+Stack trace:
+#0 C:\xampp\htdocs\jota\validar.php(19): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\jota\validar.php on line 19
+[14-Jul-2022 03:24:00 Europe/Berlin] Inicio Proyecto CFT
+[14-Jul-2022 03:24:19 Europe/Berlin] Inicio Proyecto CFT
+[14-Jul-2022 03:33:59 Europe/Berlin] Inicio Proyecto CFT
+[14-Jul-2022 03:34:37 Europe/Berlin] 2
+[14-Jul-2022 03:34:37 Europe/Berlin] estoy aqui2
+[14-Jul-2022 03:34:41 Europe/Berlin] Inicio Proyecto CFT
+[14-Jul-2022 03:35:01 Europe/Berlin] 1
+[14-Jul-2022 03:35:01 Europe/Berlin] estoy aqui1
+[14-Jul-2022 03:39:03 Europe/Berlin] Inicio Proyecto CFT
+[14-Jul-2022 03:39:51 Europe/Berlin] 2
+[14-Jul-2022 03:39:51 Europe/Berlin] estoy aqui2
+[14-Jul-2022 03:41:13 Europe/Berlin] Inicio Proyecto CFT
